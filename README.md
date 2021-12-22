@@ -1,16 +1,11 @@
-# qr_flutter_2
+# iQR Gen - Gerador de QR Code
 
-A new Flutter project.
+Gerador de QR Codes Personalizados.
 
-## Getting Started
+## Sobre
 
-This project is a starting point for a Flutter application.
+iQR Gen é o Gerador de QR Code pensado em Designer, Empreendedores e pessoas que desejam criar seus QR Codes de forma simples e rápida para compartilhar com as pessoas ou integrar a suas criações de Design!
 
-A few resources to get you started if this is your first Flutter project:
+O iQR Gen é um gerador de QR Code que lhe permite criar um QR Code personalizado! Você pode alterar as cores do QR Code, do fundo, arredondar as bordas, escolher a versão que deseja e muito mais! Você também poderá compartilhar o QR Code ou ainda Salvar como Imagem na Galeria do seu Dispositivo!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Além das opções de criação do QR Code, você também pode usar o iQR Gen para realizar a leitura de QR Codes através da Câmera do seu dispositivo!
